@@ -9,7 +9,7 @@ export const PERSONAL_INFO = {
   phone: "+260 762586216",
   location: "Lusaka, Zambia / Vellore, India",
   // REPLACE THIS WITH YOUR ACTUAL RESUME URL (Google Drive link or path to file in public folder)
-  resume: "https://drive.google.com/file/d/1_Yas_Z28664dz6sqXLOJ3Shm2qj5rwKZ/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/1dCPPmS_AWAq7j-fYYE2nJzSbgZK-I008/view?usp=sharing", 
   socials: {
     github: "https://github.com/Shanjiv931",
     twitter: "",
